@@ -18,7 +18,7 @@ const BestSeller = () => {
       <div className='text-center text-3xl py-8'>
         <Title text1={'BEST'} text2={'SELLERS'}/>
         <p className='w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600'>
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the.
+        Our best-sellers blend timeless style with modern appeal. The Classic White Tank Top is a versatile favorite, perfect for layering or solo wear. The Tailored Wool Blazer adds sophistication to both formal and casual outfits. For elegance, the Asymmetric Satin Dress is a top choice for evening occasions.
         </p>
       </div>
 
